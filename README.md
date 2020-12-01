@@ -11,8 +11,14 @@ will tick every second(1000milliseconds)
 (60*1000)/BPM
 
 What you will learn:
+
+
 -passing state  props to function
+
+
 -playing audio
+
+
 -setinterval and clear interval methods
 
 
